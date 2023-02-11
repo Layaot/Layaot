@@ -13,3 +13,8 @@ I also do some simple art design, novel creation, planning, etc.
 If there's anything I need help with, I'll try to help!
 
 Thank you again for your support!  
+
+----
+
+BoMen~
+[bocchi]()
