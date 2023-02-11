@@ -17,4 +17,4 @@ Thank you again for your support!
 ----
 
 BoMen~  
-[!bocchi](https://github.com/LEFTFlamelight/LEFTFlamelight/raw/main/20230109185025_c626f.jpg)
+![bocchi](https://github.com/LEFTFlamelight/LEFTFlamelight/raw/main/20230109185025_c626f.jpg)
