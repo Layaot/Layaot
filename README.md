@@ -7,8 +7,9 @@ I am withdrawn, timid and afraid of communication, but sincere and enthusiastic 
 I'm interested in Java programs and MinecraftJavaMod, and I'm pretty good at it.  
 I also do some simple art design, novel creation, planning, etc.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEFTFlamelight&layout=compact&langs_count=14&hide=stylus,smarty,scss&count_private=true&exclude_repo=vuepress-theme)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEFTFlamelight&theme=tokyonight&layout=compact&langs_count=14&hide=stylus,smarty,scss&count_private=true&exclude_repo=vuepress-theme)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEFTFlamelight&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 If there's anything I need help with, I'll try to help!
 
