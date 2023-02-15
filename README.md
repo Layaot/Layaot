@@ -1,5 +1,5 @@
 # LEFT_Flamelight Biography  
-### Hello there!
+### Hello there!👋
 
 I am a 16-year-old middle school student from China.
 
