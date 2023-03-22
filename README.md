@@ -9,6 +9,8 @@ I also know front-end languages like HTML/CSS and Javascript.
 
 I am currently working on a series of projects, if you want to follow my project, follow the [@PrincipleCreativity](https://github.com/PrincipleCreativity) team!
 
+My E-mail: layaot@tom.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEFTFlamelight&layout=compact&langs_count=14&hide=stylus,smarty,scss&count_private=true&exclude_repo=vuepress-theme)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEFTFlamelight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
