@@ -1,7 +1,7 @@
 # Layaot Biography  
 ### Hello there!👋
 
-I’m Layaot, or you can call me LEFT_Flamelight.
+My name is Zixin Jiang, you can call me Layaot
 
 I'm a Java programmer and I'm currently learning Golang, Kotlin, C++, and maybe Python.
 
