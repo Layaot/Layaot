@@ -3,7 +3,7 @@
 
 My name is Zixin Jiang, you can call me Layaot
 
-I'm a Java programmer and I'm currently learning Golang, Kotlin, C++, and maybe Python.
+I'm a Java programmer and I'm currently learning Golang, Kotlin, C#, and maybe Python.
 
 I also know front-end languages like HTML/CSS and Javascript.
 
