@@ -1,7 +1,7 @@
 # Layaot Biography  
 ### Hello there!👋
 
-My name is Zixin Jiang, you can call me Layaot
+I'm Layaot.
 
 I'm a Java programmer and I'm currently learning Golang, Kotlin, C#, and maybe Python.
 
